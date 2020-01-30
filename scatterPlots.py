@@ -2,10 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-scatter = sns
-reg = sns
-plt1 = plt
-plt2 = plt
 
 data = pd.read_csv('nba.csv')
 
